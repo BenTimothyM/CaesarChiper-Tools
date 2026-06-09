@@ -68,13 +68,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-### Perubahan Utama yang Membuatnya Profesional:
-1. **Badges Teknis:** Menambahkan badge Python dan Lisensi MIT di bagian atas untuk memberikan kesan repositori yang aktif dan dikelola dengan baik.
-2. **Bahasa Formal:** Menggunakan terminologi kriptografi yang tepat seperti *plaintext*, *ciphertext*, dan *obfuscation*.
-3. **Roadmap Section:** Menunjukkan bahwa proyek ini memiliki potensi pengembangan lebih lanjut, yang sangat bagus jika dilihat oleh perekrut atau kolaborator lain.
-
-Kamu bisa langsung menyalin kode Markdown di atas dan menempelkannya ke file `README.md` kamu di GitHub!
-
 ```
