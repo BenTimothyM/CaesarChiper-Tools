@@ -24,15 +24,15 @@ To run this tool, you only need to have Python installed on your system:
 ### Installation
 
 1. Clone the repository to your local machine:
-```bash git clone [https://github.com/BenTimothyM/CaesarChiper-Tools.git](https://github.com/BenTimothyM/CaesarChiper-Tools.git)```
+```git clone [https://github.com/BenTimothyM/CaesarChiper-Tools.git](https://github.com/BenTimothyM/CaesarChiper-Tools.git)```
 
 2. Navigate into the project directory:
-```bash cd CaesarChiper-Tools```
+```cd CaesarChiper-Tools```
 
 ## Usage
 
 Run the main script using Python:
-```bash python main.py```
+```python main.py```
 
 ### Example
 
@@ -67,5 +67,9 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Credit
+
+Developed and maintained by Ben Timothy.
 
 ```
