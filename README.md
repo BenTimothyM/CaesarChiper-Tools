@@ -24,7 +24,7 @@ To run this tool, you only need to have Python installed on your system:
 ### Installation
 
 1. Clone the repository to your local machine:
-```git clone [https://github.com/BenTimothyM/CaesarChiper-Tools.git](https://github.com/BenTimothyM/CaesarChiper-Tools.git)```
+```git clone https://github.com/BenTimothyM/CaesarChiper-Tools.git```
 
 2. Navigate into the project directory:
 ```cd CaesarChiper-Tools```
